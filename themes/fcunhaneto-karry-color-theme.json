@@ -29,7 +29,7 @@
 
 		"sideBar.background": "#e3d5c1",
 		"sideBar.foreground": "#435E75",
-		"sideBar.border": "#DFCF94",//"#919BA1", 
+		"sideBar.border": "#DFCF94",
 		"sideBarTitle.foreground": "#928EB1",
 		"sideBarSectionHeader.background": "#d0c5b5",
 		"sideBarSectionHeader.foreground": "#660000",
@@ -42,7 +42,7 @@
 		"tab.activeBackground": "#fae3c6",
 		"tab.activeForeground": "#9a09b2",
 		"tab.border":  "#aaaee6",
-		"tab.activeBorder": "#b114cc", //"#DFCF94",
+		"tab.activeBorder": "#b114cc",
 		"tab.unfocusedActiveBorder": "#DFCF94",
 		"tab.inactiveBackground": "#d0c5b5",
 		"tab.inactiveForeground": "#656379",
@@ -50,7 +50,7 @@
 		"editor.background": "#fce7cd",
 		"editor.foreground": "#435E75",
 		"editorLineNumber.foreground": "#660000",
-		"editor.selectionBackground": "#d2e980",  //"#E89483",
+		"editor.selectionBackground": "#d2e980",
 		"editor.findMatchBackground": "#c1dfe3", 
 		"editor.findMatchHighlightBackground": "#eefdb5",
 		"editor.hoverHighlightBackground": "#FFF3C5",
@@ -317,7 +317,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#d06fdd" //
+				"foreground": "#d06fdd"
 			}
 		},
 		{
