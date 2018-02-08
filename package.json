@@ -1,0 +1,37 @@
+{
+    "name": "karry-color-theme",
+    "displayName": "Karry Color Theme",
+    "description": "Theme for vscode with editor in Karry color and with an emphasis on syntax highlighting.",
+    "version": "0.0.1",
+    "publisher": "fcunhaneto",
+    "icon": "https://github.com/fcunhaneto/vscode-karry-color-theme.git/icon.png",
+    "license": "MIT see in LICENSE.txt",
+    
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fcunhaneto/vscode-karry-color-theme.git"
+      },
+    "bugs": {
+		"url": "https://github.com/fcunhaneto/vscode-karry-color-theme/issues",
+		"email": "fcunhaneto@gmail.com"
+    },    
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+		"color": "#fce7cd",
+		"theme": "light"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Karry Color Theme",
+                "uiTheme": "vs",
+                "path": "./themes/fcunhaneto-karry-color-theme.json"
+            }
+        ]
+    }
+}
