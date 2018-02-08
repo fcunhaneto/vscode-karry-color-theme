@@ -529,20 +529,6 @@
 			"settings": {
 				"foreground": "#434343"
 			}
-		},
-		{
-			"name": "keyword.function.go",
-			"scope": "keyword.function.go",
-			"settings": {
-				"foreground": "#9a09b2"
-			}
-		},
-		{
-			"name": "support.function.builtin.go",
-			"scope": "support.function.builtin.go",
-			"settings": {
-				"foreground": "#D2691E"
-			}
 		}
 	]
 }
