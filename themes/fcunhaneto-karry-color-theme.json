@@ -102,8 +102,6 @@
    		"gitDecoration.untrackedResourceForeground": "#9a09b2",
    	 	"gitDecoration.ignoredResourceForeground": "#9a09b2",
     	"gitDecoration.conflictingResourceForeground": "#9a09b2"
-
-
 	},
 	"tokenColors": [ 
 		{
